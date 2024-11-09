@@ -1,1 +1,1 @@
-# HR_RL
+# HackResearch Reinforcement Learning
